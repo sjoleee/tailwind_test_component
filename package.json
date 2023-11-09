@@ -1,7 +1,7 @@
 {
   "name": "@sjoleee/tailwind-test-component",
   "sideEffects": false,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "componentName": "tailwind-test-component",
   "author": "sjoleee",
   "license": "ISC",
