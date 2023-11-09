@@ -1,1 +1,0 @@
-{"version":3,"sources":["../src/Init.tsx"],"sourcesContent":["type Props = {\n  name?: string;\n};\n\nexport const Init = ({ name }: Props) => {\n  return <div className=\"bg-gray-500\">{name}</div>;\n};\n"],"mappings":";AAKS;AADF,IAAM,OAAO,CAAC,EAAE,KAAK,MAAa;AACvC,SAAO,oBAAC,SAAI,WAAU,eAAe,gBAAK;AAC5C;","names":[]}
